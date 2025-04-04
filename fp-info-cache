@@ -1,4 +1,4 @@
-24751283350699837
+24754770828554266
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65884,6 +65884,13 @@ PCA
 8
 8
 Library
+PIC258SMD
+
+
+0
+44
+44
+Library
 RELAY_A161CS12VDC.64
 
 
@@ -65904,6 +65911,13 @@ SW_2-1437565-7
 0
 4
 4
+Library
+TPS63070RNMR
+
+
+0
+13
+13
 Library
 Untitled
 

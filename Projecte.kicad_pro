@@ -58,20 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "unconnected_items|118720000|132390000|9fc8545c-5de0-4499-9f32-d480e324e80b|aaae11ef-e23d-47d9-b403-4496f160a8ba",
-          "Si que esta conectat pero no ho detecta com l'altre"
-        ],
-        [
-          "unconnected_items|134380000|141540000|705fb5ec-3409-4387-aca4-9fbee3496a6a|016e8a5f-409d-4725-ad7c-6c8907172bb7",
-          "Si que esta conectat"
-        ],
-        [
-          "unconnected_items|151930000|145675603|335a8a40-315d-4e9f-9b23-ac3605d5dad4|335a8a40-315d-4e9f-9b23-ac3605d5dad4",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -508,7 +495,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.3,
+        "track_width": 0.6,
         "via_diameter": 0.6,
         "via_drill": 0.3
       },
@@ -524,7 +511,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
+        "track_width": 0.6,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -541,7 +528,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.4,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -618,7 +605,7 @@
         "pattern": "GND"
       },
       {
-        "netclass": "GND",
+        "netclass": "Power",
         "pattern": "GNDPWR"
       },
       {
@@ -662,11 +649,11 @@
         "pattern": "+12V"
       },
       {
-        "netclass": "Default",
+        "netclass": "Signal",
         "pattern": "/Vcc_3.3V"
       },
       {
-        "netclass": "Signal",
+        "netclass": "Power",
         "pattern": "/V-s"
       },
       {
@@ -714,16 +701,60 @@
         "pattern": "/7V"
       },
       {
-        "netclass": "Power",
+        "netclass": "Signal",
         "pattern": "/V_LED_ON"
       },
       {
-        "netclass": "Power",
+        "netclass": "Signal",
         "pattern": "/V_LED_XIP"
       },
       {
         "netclass": "Power",
         "pattern": "/RsU4"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/L1"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/L2"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Vouta1"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/PS"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/Vaux"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/Man_CLR"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/PG_"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Vadj"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/V+"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Vs.7"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/Vpp"
       }
     ]
   },
