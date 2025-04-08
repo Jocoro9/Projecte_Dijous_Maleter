@@ -43,8 +43,8 @@
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
+        "silk_text_size_h": 0.5,
+        "silk_text_size_v": 0.5,
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
@@ -58,7 +58,32 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "starved_thermal|163940000|82030000|1e6000b2-c9a9-49be-8bdb-8aa9c5f4574c|bf99f71d-be94-4417-a04f-e1c803e87e3f|F.Cu",
+          "Ne és cert"
+        ],
+        [
+          "starved_thermal|165329798|86978212|1e6000b2-c9a9-49be-8bdb-8aa9c5f4574c|c89f02ed-2f7e-44e0-8247-652e4ed7c622|F.Cu",
+          "No es cert"
+        ],
+        [
+          "starved_thermal|169300000|98920000|1e6000b2-c9a9-49be-8bdb-8aa9c5f4574c|96edab3b-9ca8-470e-937b-a0a077ad4364|F.Cu",
+          "Idem"
+        ],
+        [
+          "starved_thermal|175805000|77385000|8a0642da-9981-4340-8aaa-05681b4bff0a|fd3a69cc-5cea-4b9c-a628-c1f92b0ef148|F.Cu",
+          "Idem"
+        ],
+        [
+          "unconnected_items|193647500|100387500|c626a36d-7a62-4dfe-b0ff-866ad55b11f0|955878bf-ab95-429f-9c8d-a5d1d594153e",
+          "Si esta conectat"
+        ],
+        [
+          "unconnected_items|213351500|109994000|a5d7d119-ba65-4af6-889e-290ae07c7e3e|a5d7d119-ba65-4af6-889e-290ae07c7e3e",
+          "Idem"
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -469,7 +494,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -486,14 +511,14 @@
         "wire_width": 6
       },
       {
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "GND",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.6,
         "via_diameter": 0.6,
@@ -501,7 +526,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -509,7 +534,7 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.6,
         "via_diameter": 0.6,
@@ -517,8 +542,22 @@
         "wire_width": 6
       },
       {
+        "clearance": 0.15,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Power'",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -526,7 +565,7 @@
         "microvia_drill": 0.1,
         "name": "Signal",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4,
         "via_diameter": 0.6,
@@ -605,7 +644,7 @@
         "pattern": "GND"
       },
       {
-        "netclass": "Power",
+        "netclass": "GND",
         "pattern": "GNDPWR"
       },
       {
@@ -649,7 +688,7 @@
         "pattern": "+12V"
       },
       {
-        "netclass": "Signal",
+        "netclass": "Power'",
         "pattern": "/Vcc_3.3V"
       },
       {
