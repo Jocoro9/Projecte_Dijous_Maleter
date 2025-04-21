@@ -1,0 +1,44 @@
+** Drc report for Projecte.kicad_pcb **
+** Created on 2025-04-10T12:00:54+0200 **
+
+** Found 5 DRC violations **
+[courtyards_overlap]: Solapamiento de patios
+    Regla: restricciones de configuración de placa para patios; error (excluded)
+    @(160,9300 mm, 124,1100 mm): Huella REF**
+    @(163,4900 mm, 118,1047 mm): Huella ConnectorCAN
+[starved_thermal]: Conexión de alivio térmico a zona incompleta (capa F.Cu; zona cantidad de radios mínima 2; real 1)
+    Anulación local; error (excluded)
+    @(164,7685 mm, 91,2705 mm): Zona [+12V] en F.Cu
+    @(169,3000 mm, 98,9200 mm): PTH pad 2
+    Idem
+[starved_thermal]: Conexión de alivio térmico a zona incompleta (capa F.Cu; zona cantidad de radios mínima 2; real 1)
+    Anulación local; error (excluded)
+    @(164,7685 mm, 91,2705 mm): Zona [+12V] en F.Cu
+    @(163,9400 mm, 82,0300 mm): Pad 1 on F.Cu
+    Ne és cert
+[starved_thermal]: Conexión de alivio térmico a zona incompleta (capa F.Cu; zona cantidad de radios mínima 2; real 1)
+    Anulación local; error (excluded)
+    @(164,7685 mm, 91,2705 mm): Zona [+12V] en F.Cu
+    @(165,3298 mm, 86,9782 mm): Pad 12_13 on F.Cu
+    No es cert
+[starved_thermal]: Conexión de alivio térmico a zona incompleta (capa F.Cu; zona cantidad de radios mínima 2; real 1)
+    Anulación local; error (excluded)
+    @(229,3925 mm, 126,7194 mm): Zona [VCC] en F.Cu
+    @(175,8050 mm, 77,3850 mm): Pad 2 on F.Cu
+    Idem
+
+** Found 2 unconnected pads **
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error (excluded)
+    @(193,4000 mm, 100,3875 mm): Pista [GND] en (B.Cu), longitud 0,2475 mm
+    @(196,8000 mm, 93,8775 mm): Pista [GND] en (F.Cu), longitud 1,0575 mm
+    Si esta conectat
+[unconnected_items]: Conexión faltante entre elementos
+    Anulación local; error (excluded)
+    @(210,5100 mm, 106,3000 mm): Zona [/Vcc_3.3V] en F.Cu
+    @(210,5100 mm, 106,3000 mm): Zona [/Vcc_3.3V] en F.Cu
+    Idem
+
+** Found 0 Footprint errors **
+
+** End of Report **

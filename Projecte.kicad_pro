@@ -58,32 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "starved_thermal|163940000|82030000|1e6000b2-c9a9-49be-8bdb-8aa9c5f4574c|bf99f71d-be94-4417-a04f-e1c803e87e3f|F.Cu",
-          "Ne és cert"
-        ],
-        [
-          "starved_thermal|165329798|86978212|1e6000b2-c9a9-49be-8bdb-8aa9c5f4574c|c89f02ed-2f7e-44e0-8247-652e4ed7c622|F.Cu",
-          "No es cert"
-        ],
-        [
-          "starved_thermal|169300000|98920000|1e6000b2-c9a9-49be-8bdb-8aa9c5f4574c|96edab3b-9ca8-470e-937b-a0a077ad4364|F.Cu",
-          "Idem"
-        ],
-        [
-          "starved_thermal|175805000|77385000|8a0642da-9981-4340-8aaa-05681b4bff0a|fd3a69cc-5cea-4b9c-a628-c1f92b0ef148|F.Cu",
-          "Idem"
-        ],
-        [
-          "unconnected_items|193647500|100387500|c626a36d-7a62-4dfe-b0ff-866ad55b11f0|955878bf-ab95-429f-9c8d-a5d1d594153e",
-          "Si esta conectat"
-        ],
-        [
-          "unconnected_items|213351500|109994000|a5d7d119-ba65-4af6-889e-290ae07c7e3e|a5d7d119-ba65-4af6-889e-290ae07c7e3e",
-          "Idem"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -929,6 +904,54 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description_1",
+          "name": "Description_1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Check_prices",
+          "name": "Check_prices",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SnapEDA_Link",
+          "name": "SnapEDA_Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Availability",
+          "name": "Availability",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Price",
+          "name": "Price",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -992,5 +1015,8 @@
       "Root"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "IMPORTANTS": "",
+    "NO IMPORTANTS": ""
+  }
 }

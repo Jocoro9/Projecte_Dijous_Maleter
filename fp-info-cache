@@ -1,4 +1,4 @@
-24754770828554266
+24758259421303230
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65898,12 +65898,26 @@ RELAY_A161CS12VDC.64
 5
 5
 Library
+SOIC127P599X175-8N
+
+
+0
+8
+8
+Library
 SOIC127P1030X265-28N
 
 
 0
 28
 28
+Library
+SOT95P237X112-3N
+
+
+0
+3
+3
 Library
 SW_2-1437565-7
 
