@@ -10760,118 +10760,6 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 284.48 85.09) (xy 257.175 85.09)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 00b120cd-c173-4ca1-8112-9bee70634e66)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 39.37 55.88) (xy 12.7 55.88)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 10cd2104-923e-4110-b7a8-e1951dae8793)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 39.37 55.88) (xy 39.37 154.305)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 23470a8a-0a4a-4549-ab88-637451d1a78b)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 207.645 55.88) (xy 138.43 55.88)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 2caf3a8b-f80f-4eaa-9d99-16f7eb13ef02)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 177.165 67.945) (xy 12.7 67.945)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 47db85b7-553b-4508-9ab1-0386eb6ef57e)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 39.37 95.25) (xy 12.065 95.25)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 59e32f81-d456-40fa-830c-1fa8a5f13d06)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 284.48 130.81) (xy 257.175 130.81)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 70fe1334-7d9a-4269-ad4c-02c8eb0b6d97)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
 				(xy 207.5453 12.9625) (xy 207.645 61.595)
 			)
 			(stroke
@@ -10882,135 +10770,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 8a052e24-761e-491f-80fb-38dbeb05a97e)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 257.212 61.0178) (xy 257.175 166.37)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 9554ba4d-6b8a-4dd4-b7e7-e6e7464f74f1)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 284.48 71.12) (xy 257.175 71.12)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid a86f59fd-0570-4362-8dd4-ace0b6748872)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 177.165 60.96) (xy 177.165 198.12)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid ae90e138-2c27-467c-a200-ed3c583cdada)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 284.48 157.48) (xy 257.175 157.48)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid bc402693-f714-4dc1-8ad0-2e2cfb862937)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 39.0524 117.475) (xy 11.7474 117.475)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid d2147d77-dbd1-432d-8018-a93ce4d510dc)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 138.43 12.7) (xy 138.43 67.945)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid d2ebeea0-17f7-4f98-ad9d-4ac1c4c3d457)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 176.53 154.94) (xy 12.065 154.94)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid e43b0daa-6749-44ec-8940-76a5c99a2005)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 284.48 105.41) (xy 257.175 105.41)
-			)
-			(stroke
-				(width 0.508)
-				(type solid)
-				(color 0 14 183 1)
-			)
-			(fill
-				(type none)
-			)
-			(uuid e7ece08d-c13e-48d0-b4e1-cee46ce760ba)
+			(uuid 0b29f73a-ccdf-479a-975e-2359e0151e06)
 		)
 	)
 	(rule_area
@@ -11026,7 +10786,247 @@
 			(fill
 				(type none)
 			)
-			(uuid fc110ce7-fb44-4635-baad-97d3342c6d76)
+			(uuid 22cd31ee-e00a-4b92-a4e7-ac0ea77f428a)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 177.165 67.945) (xy 12.7 67.945)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 43d0da69-0f63-48ae-adbe-aff780dff589)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 284.48 85.09) (xy 257.175 85.09)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 717514be-f4e5-4c2d-9864-f7d86583618f)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 284.48 130.81) (xy 257.175 130.81)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 7a4ee0ca-fbe2-43a3-915a-6f2633a0b1a5)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 177.165 60.96) (xy 177.165 198.12)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid a4f3180f-7b91-409c-9338-d1552522881f)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 39.37 55.88) (xy 12.7 55.88)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid a89a5b9d-d7a2-4dfc-b7fb-d637aab8ac59)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 284.48 71.12) (xy 257.175 71.12)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid acce9945-cc78-45f7-9fb7-8052bed4afac)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 257.212 61.0178) (xy 257.175 166.37)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid c6546242-f399-4f18-84af-aa295ddf08a1)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 207.645 55.88) (xy 138.43 55.88)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid ca2393f0-e366-493a-98af-f59a7b4bc63d)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 39.37 55.88) (xy 39.37 154.305)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid ccd6bf81-c7c5-4d78-bd9d-a3323b06f9c9)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 39.37 95.25) (xy 12.065 95.25)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid d187695c-a3f7-4d83-b854-3ade12a23ce5)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 284.48 105.41) (xy 257.175 105.41)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid dbf1eb5b-4c80-42c5-be83-96b7bce3d4f2)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 176.53 154.94) (xy 12.065 154.94)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid e382a7ac-8732-4d53-ab78-9d1cdc63bdf7)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 39.0524 117.475) (xy 11.7474 117.475)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid ea7032bf-e4b3-4360-9aa0-271f6e157d1c)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 284.48 157.48) (xy 257.175 157.48)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid ed721d27-3568-41da-a633-4a2b396e98a4)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 138.43 12.7) (xy 138.43 67.945)
+			)
+			(stroke
+				(width 0.508)
+				(type solid)
+				(color 0 14 183 1)
+			)
+			(fill
+				(type none)
+			)
+			(uuid fc58fcde-cea3-4213-b12b-6afe7c444822)
 		)
 	)
 	(symbol
@@ -11586,7 +11586,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 91.1352 38.1 0)
 			(effects
 				(font
@@ -11917,7 +11917,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 44.1452 55.88 0)
 			(effects
 				(font
@@ -11977,7 +11977,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "IRLZ34N"
+		(property "Value" "IRLML2502"
 			(at 191.516 29.972 0)
 			(effects
 				(font
@@ -12837,7 +12837,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 20.0152 43.18 0)
 			(effects
 				(font
@@ -14818,7 +14818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 56.8452 99.06 0)
 			(effects
 				(font
@@ -15284,7 +15284,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 131.7752 39.37 0)
 			(effects
 				(font
@@ -15681,7 +15681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 45.4152 99.06 0)
 			(effects
 				(font
@@ -16366,7 +16366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 111.4552 38.1 0)
 			(effects
 				(font
@@ -16871,7 +16871,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 18.7452 177.8 0)
 			(effects
 				(font
@@ -20189,7 +20189,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
+		(property "Footprint" "Inductor_SMD:L_1812_4532Metric"
 			(at 48.26 58.42 0)
 			(effects
 				(font
@@ -20834,7 +20834,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 47.9552 36.83 0)
 			(effects
 				(font
@@ -21169,7 +21169,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 155.9052 184.15 0)
 			(effects
 				(font

@@ -1,0 +1,12 @@
+Archivo de posicionamiento del lado frontal: 'C:\Users\jordi\OneDrive\Escritorio\UNI\UB\S4\Eines de Disseny\Projecte\Projecte\Projecte-top-pos.csv'.
+Info: Número de componentes: 69.
+Archivo de posicionamiento del lado trasero: 'C:\Users\jordi\OneDrive\Escritorio\UNI\UB\S4\Eines de Disseny\Projecte\Projecte\Projecte-bottom-pos.csv'.
+Info: Número de componentes: 9.
+Info: Número total de componentes: 78.
+Info: Listo.
+Archivo de posicionamiento del lado frontal: 'C:\Users\jordi\OneDrive\Escritorio\UNI\UB\S4\Eines de Disseny\Projecte\Projecte\Projecte-top-pos.csv'.
+Info: Número de componentes: 69.
+Archivo de posicionamiento del lado trasero: 'C:\Users\jordi\OneDrive\Escritorio\UNI\UB\S4\Eines de Disseny\Projecte\Projecte\Projecte-bottom-pos.csv'.
+Info: Número de componentes: 9.
+Info: Número total de componentes: 78.
+Info: Listo.
